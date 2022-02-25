@@ -1,13 +1,32 @@
->>> 5**9
+5**9
 1953125
-
->>> 3//2
+3//2
 1
-
->>> 7//3
+7//3
 2
-
->>> 7/3
+7/3
 2.3333333333333335
-
->>>
+6 == 6
+True
+a=20
+a+=30
+a%=3
+print(a)
+2
+True * False
+0
+True & False
+False
+True and False
+False
+((6>3) and (7<4) or (18==3)) and (9>3)
+False
+True is False
+False
+False in 'False'
+Traceback (most recent call last):
+  File "<pyshell#14>", line 1, in <module>
+    False in 'False'
+TypeError: 'in <string>' requires string as left operand, not bool
+((True == False) or (False> True)) and (False <= True)
+False
